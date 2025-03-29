@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Sooriya</h1>
+<h3 >Hi, I'm Sooriya! I'm an IT student with a passion for technology and a keen interest in full stack web development. Currently, I am honing my skills in both front-end and back-end technologies to build dynamic and responsive web applications. My journey in tech is driven by a love for problem-solving and creating innovative solutions</h3>
+<h3>On GitHub, you'll find a variety of projects showcasing my work, from simple web apps to more complex systems. I'm always eager to learn and collaborate, so feel free to explore my repositories and reach out if you have any questions or ideas!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sooriya04&label=Profile%20views&color=0e75b6&style=flat" alt="sooriya04" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ucdshso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sooriyab) 
